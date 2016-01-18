@@ -9,9 +9,6 @@ public class PerfectNumbers {
 		}
 	}
 
-	// Notice how we pass the number to the function for then testing
-	// in the for statement. 
-
 	public static void test1(int number) {
 		int sum = 0;
 
@@ -25,7 +22,5 @@ public class PerfectNumbers {
 			System.out.print(number + ", ");
 		}
 	}
-}
-
-	
+}	
 
